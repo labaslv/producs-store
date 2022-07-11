@@ -1,1 +1,1 @@
-# products-store
+# products-ui
